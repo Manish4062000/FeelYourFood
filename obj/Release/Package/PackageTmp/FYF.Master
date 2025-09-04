@@ -1,0 +1,228 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="FYF.master.cs" Inherits="FeelYourFood.FYF" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="keywords" content="admin, dashboard, bootstrap, template, flat, modern, theme, responsive, fluid, retina, backend, html5, css, css3">
+    <meta name="description" content="">
+    <meta name="author" content="ThemeBucket">
+    <link rel="shortcut icon" href="images/icon.png" type="image/png">
+    <title>Feel Your Food</title>
+
+    <!--icheck-->
+    <link href="js/iCheck/skins/minimal/minimal.css" rel="stylesheet">
+    <link href="js/iCheck/skins/square/square.css" rel="stylesheet">
+    <link href="js/iCheck/skins/square/red.css" rel="stylesheet">
+    <link href="js/iCheck/skins/square/blue.css" rel="stylesheet">
+
+    <!--dashboard calendar-->
+    <link href="css/clndr.css" rel="stylesheet">
+
+    <!--Morris Chart CSS -->
+    <link rel="stylesheet" href="js/morris-chart/morris.css">
+
+    <!--common-->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style-responsive.css" rel="stylesheet">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css">
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body class="sticky-header">
+
+    <form id="form1" runat="server">
+        <section>
+            <!-- left side start-->
+            <div class="left-side sticky-left-side">
+
+                <!--logo and iconic logo start-->
+                <div class="logo">
+                    <a href="DashBoardForm.aspx" >
+                        <%--<img src="images/white-logo1.png" class="img-responsive" alt="">--%>
+                        <h3 id="dynamicImage" class="img-responsive " style="margin-top: 5px; font-weight: bold" runat="server"></h3>
+
+                    </a>
+                </div>
+
+                <div class="logo-icon text-center">
+                    <a href="DashBoardForm.aspx">
+                        <asp:Image ID="imgRestLogo" runat="server" CssClass="img-responsive" Style="height: -webkit-fill-available;" />
+                    </a>
+                </div>
+
+                <!--logo and iconic logo end-->
+
+                <div class="left-side-inner">
+
+                    <!-- visible to small devices only -->
+                    <div class="visible-xs hidden-sm hidden-md hidden-lg">
+                        <div class="media logged-user">
+                            <%--<img alt="" src="images/photos/user-avatar.png" class="media-object">--%>
+                            <asp:Image ID="adminIcon" runat="server" class="media-object" />
+                            <div class="media-body">
+                                <h4><a href="#">Admin</a></h4>
+                                <span>"Hello There..."</span>
+                            </div>
+                        </div>
+
+                        <h5 class="left-nav-title">Account Information</h5>
+                        <ul class="nav nav-pills nav-stacked custom-nav">
+                            <li><a href="ProfileForm.aspx"><i class="fa fa-user"></i><span>Profile</span></a></li>
+                            <li><a href="SettingsForm.aspx"><i class="fa fa-cog"></i><span>Settings</span></a></li>
+                            <li><a href="LogOut.aspx"><i class="fa fa-sign-out"></i><span>Sign Out</span></a></li>
+                        </ul>
+                    </div>
+
+                    <!--sidebar nav start-->
+                    <ul class="nav nav-pills nav-stacked custom-nav">
+                        <li class="active">
+                            <a href="DashBoardForm.aspx"><i class="fa fa-home"></i><span>Dashboard</span></a>
+                        </li>
+
+                        <li>
+                            <a href="ResturantRegisterForm.aspx"><i class="fa fa-cutlery"></i><span>Restaurant Details</span></a>
+                        </li>
+
+                        <li>
+                            <a href="ChooseDeviceForm.aspx"><i class="fa fa-desktop"></i><span>Choose Device</span></a>
+                        </li>
+
+
+                        <li class="menu-list"><a href="#"><i class="fa fa-cogs"></i><span>Configuration</span></a>
+                            <ul class="sub-menu-list">
+                                <li><a href="ConfigureKioskForm.aspx">Configure Ordering Kiosk</a></li>
+                                <li><a href="FoodItemData.aspx">Food Items</a></li>
+                                <li><a href="AddonSelectionForm.aspx">Manage Addons</a></li>
+                                <li id="liTableMaster" runat="server">
+                                    <a href="TableMaster.aspx">Table Master</a>
+                                </li>
+                                <li><a href="DiscountMaster.aspx">Discount Master</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="Subscription.aspx"><i class="fa fa-desktop"></i><span>Subscription</span></a>
+                        </li>
+
+
+
+                    </ul>
+
+                </div>
+            </div>
+            <!-- left side end-->
+            <!-- main content start-->
+            <div class="main-content">
+
+                <!-- header section start-->
+                <div class="header-section">
+
+                    <!--toggle button start-->
+                    <a class="toggle-btn"><i class="fa fa-bars"></i></a>
+                    <!--toggle button end-->
+
+                    <!--search start-->
+                    <!-- <form class="searchform" action="index.html" method="post">
+                <input type="text" class="form-control" name="keyword" placeholder="Search here..." />
+            </form> -->
+                    <!--search end-->
+
+                    <!--notification menu start -->
+                    <div class="menu-right">
+                        <ul class="notification-menu">
+
+                            <li>
+                                <a href="#" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                                    <%--<img src="images/photos/user-avatar.png" alt="" />--%>
+                                    <asp:Image ID="adminIcon1" runat="server" />
+                                    <span>
+                                        <asp:Label ID="lbladminname" runat="server" Text=""></asp:Label>
+                                    </span>
+                                    <span class="caret"></span>
+                                </a>
+                                <ul class="dropdown-menu dropdown-menu-usermenu pull-right">
+                                    <li><a href="ProfileForm.aspx"><i class="fa fa-user"></i>Profile</a></li>
+                                    <li><a href="SettingsForm.aspx"><i class="fa fa-cog"></i>Settings</a></li>
+                                    <li><a href="LogOut.aspx"><i class="fa fa-sign-out"></i>Log Out</a></li>
+                                </ul>
+                            </li>
+
+                        </ul>
+                    </div>
+                    <!--notification menu end -->
+
+                </div>
+                <!-- header section end-->
+
+                <!--body wrapper start-->
+                <div class="wrapper">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div>
+                                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                </asp:ContentPlaceHolder>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <!--body wrapper end-->
+                <!--footer section start-->
+                <footer class="sticky-footer">
+                    © Copyrights 2025 Restaurant India. Designed by <a href="https://www.addsofttech.com/" target="_blank">Addsoft Technologies Pvt. Ltd. </a>
+                </footer>
+                <!--footer section end-->
+
+
+            </div>
+            <!-- main content end-->
+        </section>
+        <!-- Placed js at the end of the document so the pages load faster -->
+        <script src="js/jquery-1.10.2.min.js"></script>
+        <script src="js/jquery-ui-1.9.2.custom.min.js"></script>
+        <script src="js/jquery-migrate-1.2.1.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/modernizr.min.js"></script>
+        <script src="js/jquery.nicescroll.js"></script>
+
+        <!--easy pie chart-->
+        <script src="js/easypiechart/jquery.easypiechart.js"></script>
+        <script src="js/easypiechart/easypiechart-init.js"></script>
+
+        <!--Sparkline Chart-->
+        <script src="js/sparkline/jquery.sparkline.js"></script>
+        <script src="js/sparkline/sparkline-init.js"></script>
+
+        <!--icheck -->
+        <script src="js/iCheck/jquery.icheck.js"></script>
+        <script src="js/icheck-init.js"></script>
+
+        <!-- jQuery Flot Chart-->
+        <script src="js/flot-chart/jquery.flot.js"></script>
+        <script src="js/flot-chart/jquery.flot.tooltip.js"></script>
+        <script src="js/flot-chart/jquery.flot.resize.js"></script>
+
+
+        <!--Morris Chart-->
+        <script src="js/morris-chart/morris.js"></script>
+        <script src="js/morris-chart/raphael-min.js"></script>
+
+        <!--Calendar-->
+        <script src="js/calendar/clndr.js"></script>
+        <script src="js/calendar/evnt.calendar.init.js"></script>
+        <script src="js/calendar/moment-2.2.1.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
+
+        <!--common scripts for all pages-->
+        <script src="js/scripts.js"></script>
+
+        <!--Dashboard Charts-->
+        <script src="js/dashboard-chart-init.js"></script>
+
+    </form>
+</body>
+</html>

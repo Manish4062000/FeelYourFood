@@ -1,0 +1,575 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Company\\Feel Your Food\\FeelYourFood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|e:\\company\\feel your food\\feelyourfood\\dashboardform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:dashboardform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\dashboardform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:dashboardform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\discountmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:discountmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\tablemaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:tablemaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\addonselectionform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:addonselectionform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\fooditemdata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:fooditemdata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\configurekioskform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:configurekioskform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\m_dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:m_dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\fyf.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:fyf.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\renewsubscription.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:renewsubscription.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\renewsubscription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:renewsubscription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\emiinstallment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:emiinstallment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\fooditemdata.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:fooditemdata.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\mfyf.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:mfyf.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\mfyf.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:mfyf.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\fyf.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:fyf.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\m_menumaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:m_menumaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\m_menumaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:m_menumaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\m_dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:m_dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\emiinstallment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:emiinstallment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\m_resturantcrediential.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:m_resturantcrediential.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\m_resturantdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:m_resturantdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\m_resturantdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:m_resturantdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\m_resturantcrediential.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:m_resturantcrediential.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\newsubscription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:newsubscription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\uploaddocuments.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:uploaddocuments.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\subscription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:subscription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\emisubscription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:emisubscription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|E:\\Company\\Feel Your Food\\FeelYourFood\\subscription.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20ECA8DA-1C61-46EF-A5FA-96F9B8AFF1C9}|FeelYourFood.csproj|solutionrelative:subscription.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigureKioskForm.aspx",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\ConfigureKioskForm.aspx",
+              "RelativeDocumentMoniker": "ConfigureKioskForm.aspx",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\ConfigureKioskForm.aspx",
+              "RelativeToolTip": "ConfigureKioskForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-25T12:35:55.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashBoardForm.aspx.cs",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\DashBoardForm.aspx.cs",
+              "RelativeDocumentMoniker": "DashBoardForm.aspx.cs",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\DashBoardForm.aspx.cs",
+              "RelativeToolTip": "DashBoardForm.aspx.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAUwD4BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:13:54.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashBoardForm.aspx",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\DashBoardForm.aspx",
+              "RelativeDocumentMoniker": "DashBoardForm.aspx",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\DashBoardForm.aspx",
+              "RelativeToolTip": "DashBoardForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-23T04:35:38.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmiInstallment.aspx.cs",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\EmiInstallment.aspx.cs",
+              "RelativeDocumentMoniker": "EmiInstallment.aspx.cs",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\EmiInstallment.aspx.cs",
+              "RelativeToolTip": "EmiInstallment.aspx.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAHsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:29:02.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "M_Dashboard.aspx.cs",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "M_Dashboard.aspx.cs",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_Dashboard.aspx.cs",
+              "RelativeToolTip": "M_Dashboard.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwKgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:09:52.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-22T07:42:13.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.aspx",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\LoginForm.aspx",
+              "RelativeDocumentMoniker": "LoginForm.aspx",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\LoginForm.aspx",
+              "RelativeToolTip": "LoginForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-22T09:19:07.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.aspx.cs",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\LoginForm.aspx.cs",
+              "RelativeDocumentMoniker": "LoginForm.aspx.cs",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\LoginForm.aspx.cs",
+              "RelativeToolTip": "LoginForm.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:19:12.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddonSelectionForm.aspx",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\AddonSelectionForm.aspx",
+              "RelativeDocumentMoniker": "AddonSelectionForm.aspx",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\AddonSelectionForm.aspx",
+              "RelativeToolTip": "AddonSelectionForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-25T12:38:03.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TableMaster.aspx",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\TableMaster.aspx",
+              "RelativeDocumentMoniker": "TableMaster.aspx",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\TableMaster.aspx",
+              "RelativeToolTip": "TableMaster.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-25T12:38:16.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiscountMaster.aspx",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\DiscountMaster.aspx",
+              "RelativeDocumentMoniker": "DiscountMaster.aspx",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\DiscountMaster.aspx",
+              "RelativeToolTip": "DiscountMaster.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-25T12:38:31.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RenewSubscription.aspx",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\RenewSubscription.aspx",
+              "RelativeDocumentMoniker": "RenewSubscription.aspx",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\RenewSubscription.aspx",
+              "RelativeToolTip": "RenewSubscription.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-19T10:09:33.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RenewSubscription.aspx.cs",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\RenewSubscription.aspx.cs",
+              "RelativeDocumentMoniker": "RenewSubscription.aspx.cs",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\RenewSubscription.aspx.cs",
+              "RelativeToolTip": "RenewSubscription.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T10:12:56.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MFYF.Master",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\MFYF.Master",
+              "RelativeDocumentMoniker": "MFYF.Master",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\MFYF.Master",
+              "RelativeToolTip": "MFYF.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-24T10:29:32.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FoodItemData.aspx",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\FoodItemData.aspx",
+              "RelativeDocumentMoniker": "FoodItemData.aspx",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\FoodItemData.aspx",
+              "RelativeToolTip": "FoodItemData.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-24T10:29:47.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\css\\style.css",
+              "RelativeDocumentMoniker": "css\\style.css",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\css\\style.css",
+              "RelativeToolTip": "css\\style.css",
+              "ViewState": "AgIAADMEAAAAAAAAAAArwE4EAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-25T07:05:16.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FYF.Master",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\FYF.Master",
+              "RelativeDocumentMoniker": "FYF.Master",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\FYF.Master",
+              "RelativeToolTip": "FYF.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-24T10:29:05.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "M_MenuMaster.aspx",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_MenuMaster.aspx",
+              "RelativeDocumentMoniker": "M_MenuMaster.aspx",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_MenuMaster.aspx",
+              "RelativeToolTip": "M_MenuMaster.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-24T10:28:24.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FYF.Master.cs",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\FYF.Master.cs",
+              "RelativeDocumentMoniker": "FYF.Master.cs",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\FYF.Master.cs",
+              "RelativeToolTip": "FYF.Master.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:29:08.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "M_MenuMaster.aspx.cs",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_MenuMaster.aspx.cs",
+              "RelativeDocumentMoniker": "M_MenuMaster.aspx.cs",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_MenuMaster.aspx.cs",
+              "RelativeToolTip": "M_MenuMaster.aspx.cs",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:28:28.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MFYF.Master.cs",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\MFYF.Master.cs",
+              "RelativeDocumentMoniker": "MFYF.Master.cs",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\MFYF.Master.cs",
+              "RelativeToolTip": "MFYF.Master.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:29:34.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FoodItemData.aspx.cs",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\FoodItemData.aspx.cs",
+              "RelativeDocumentMoniker": "FoodItemData.aspx.cs",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\FoodItemData.aspx.cs",
+              "RelativeToolTip": "FoodItemData.aspx.cs",
+              "ViewState": "AgIAAFwBAAAAAAAAAAAowGkBAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:29:49.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "M_ResturantCrediential.aspx.cs",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_ResturantCrediential.aspx.cs",
+              "RelativeDocumentMoniker": "M_ResturantCrediential.aspx.cs",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_ResturantCrediential.aspx.cs",
+              "RelativeToolTip": "M_ResturantCrediential.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:49:02.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "M_Dashboard.aspx",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_Dashboard.aspx",
+              "RelativeDocumentMoniker": "M_Dashboard.aspx",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_Dashboard.aspx",
+              "RelativeToolTip": "M_Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-22T10:09:49.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "M_ResturantDetails.aspx.cs",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_ResturantDetails.aspx.cs",
+              "RelativeDocumentMoniker": "M_ResturantDetails.aspx.cs",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_ResturantDetails.aspx.cs",
+              "RelativeToolTip": "M_ResturantDetails.aspx.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwC8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:23:33.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "M_ResturantDetails.aspx",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_ResturantDetails.aspx",
+              "RelativeDocumentMoniker": "M_ResturantDetails.aspx",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_ResturantDetails.aspx",
+              "RelativeToolTip": "M_ResturantDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-22T05:22:23.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmiInstallment.aspx",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\EmiInstallment.aspx",
+              "RelativeDocumentMoniker": "EmiInstallment.aspx",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\EmiInstallment.aspx",
+              "RelativeToolTip": "EmiInstallment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-21T11:28:52.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "M_ResturantCrediential.aspx",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_ResturantCrediential.aspx",
+              "RelativeDocumentMoniker": "M_ResturantCrediential.aspx",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\M_ResturantCrediential.aspx",
+              "RelativeToolTip": "M_ResturantCrediential.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-22T10:48:58.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NewSubscription.aspx.cs",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\NewSubscription.aspx.cs",
+              "RelativeDocumentMoniker": "NewSubscription.aspx.cs",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\NewSubscription.aspx.cs",
+              "RelativeToolTip": "NewSubscription.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:59:06.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UploadDocuments.aspx.cs",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\UploadDocuments.aspx.cs",
+              "RelativeDocumentMoniker": "UploadDocuments.aspx.cs",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\UploadDocuments.aspx.cs",
+              "RelativeToolTip": "UploadDocuments.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T11:24:24.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Subscription.aspx.cs",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\Subscription.aspx.cs",
+              "RelativeDocumentMoniker": "Subscription.aspx.cs",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\Subscription.aspx.cs",
+              "RelativeToolTip": "Subscription.aspx.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAowGgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T09:47:50.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EMISubscription.aspx.cs",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\EMISubscription.aspx.cs",
+              "RelativeDocumentMoniker": "EMISubscription.aspx.cs",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\EMISubscription.aspx.cs",
+              "RelativeToolTip": "EMISubscription.aspx.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwBUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T08:56:14.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Subscription.aspx",
+              "DocumentMoniker": "E:\\Company\\Feel Your Food\\FeelYourFood\\Subscription.aspx",
+              "RelativeDocumentMoniker": "Subscription.aspx",
+              "ToolTip": "E:\\Company\\Feel Your Food\\FeelYourFood\\Subscription.aspx",
+              "RelativeToolTip": "Subscription.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-19T09:47:47.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
